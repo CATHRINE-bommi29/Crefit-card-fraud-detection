@@ -1,2 +1,2 @@
 # Crefit-card-fraud-detection
-big data anlytics
+big data analytics
